@@ -4,6 +4,7 @@ Sou um desenvolvedor full-stack com formação em Analise e desenvolvimento de s
 
 ## Meus conhecimentos e experiências em tecnologias como HTML5/CSS3, Javascript, Jquery, React, Node.js, Typescript, PHP, Laravel, SQL e Git.
 [![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)]()
+[![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)]()
 
 
 ## Minhas Redes
