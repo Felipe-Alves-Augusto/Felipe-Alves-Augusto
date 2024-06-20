@@ -1,6 +1,6 @@
 # Olá! Eu sou o Felipe ✌️
 
-Sou um desenvolvedor full-stack com formação em Analise e desenvolvimento de sistemas pela UNINOVE. Tenho experiência em desenvolver e dar manutenções em lojas virtuais em plataformas como Shopify, Betalabs, Vtex e NuvemShop. Também tenho experiência em desenvolver e dar manutenções em aplicações web front-end e back-end inclusive wordpress. \
+Sou um desenvolvedor full-stack com formação em Analise e desenvolvimento de sistemas pela UNINOVE. Tenho experiência em desenvolver e dar manutenções em lojas virtuais em plataformas como Shopify, Betalabs, Vtex e NuvemShop. Também tenho experiência em desenvolver e dar manutenções em aplicações web front-end e back-end inclusive wordpress.\
 
 ## Meus conhecimentos e experiências em tecnologias
 [![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)]()
