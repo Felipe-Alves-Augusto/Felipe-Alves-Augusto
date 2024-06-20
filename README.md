@@ -25,6 +25,9 @@ Sou um desenvolvedor full-stack com formação em Analise e desenvolvimento de s
 [![VERCEL](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)]()
 <br><br>
 
+Meu objetivo é continuar aprendendo e aprimorando minhas habilidades como desenvolvedor full-stack, e participar de projetos desafiadores e inovadores.
+<br><br>
+
 ## Minhas Redes
 [![Linkedln](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/felipe-alves-augusto-2400461b1/)
 
