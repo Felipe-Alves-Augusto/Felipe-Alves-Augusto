@@ -1,6 +1,10 @@
 # Olá! Eu sou o Felipe ✌️
 
-Sou um desenvolvedor full-stack com formação em Analise e desenvolvimento de sistemas pela UNINOVE. Tenho experiência em desenvolver e dar manutenções em lojas virtuais em plataformas como Shopify, Betalabs, Vtex e NuvemShop. Também tenho experiência em desenvolver e dar manutenções em aplicações web front-end e back-end inclusive wordpress
+💻 Desenvolvedor Front-End apaixonado por tecnologia e inovação, com experiência em React.js, Laravel, NodeJs, Tailwind CSS, VueJs, NextJs, TypeScript, além de atuação em plataformas como VTEX IO, Shopify e Tray. Trabalho no desenvolvimento e manutenção de sites e sistemas web, realizando integrações com o Back-End e garantindo interfaces intuitivas, responsivas e de alta performance.
+
+🎯 Minha missão é transformar ideias em experiências digitais fluidas, utilizando as melhores práticas de desenvolvimento e sempre buscando aprimorar meus conhecimentos.
+
+🚀 Estou sempre aberto a novos desafios e oportunidades para evoluir como profissional!
 <br><br>
 
 ## Meus conhecimentos e experiências em tecnologias
